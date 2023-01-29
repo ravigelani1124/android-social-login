@@ -1,27 +1,24 @@
 <resources>
     <string name="app_name">Login_demo</string>
 
-<!--    <string name="client_id">644558449498550</string>-->
-    <string name="client_id">637927347104954</string>
-    <string name="app_secret">fdd723b685955602533e24ab3a429115</string>
+    <string name="client_id">client_id</string>
+    <string name="app_secret">app_secret</string>
     <string name="redirect_url">https://instagram.com/</string>
     <string name="code_url">https://instagram.com/?code=</string>
     <string name="access_token_url">https://api.instagram.com/oauth/</string>
 
     <string name="base_url">https://api.instagram.com/</string>
     <string name="get_user_info_url">https://graph.instagram.com/</string>
-<!--    <string name="get_user_info_url">https://api.instagram.com/v1/users/self/?access_token=</string>-->
-
 <!--    Twitter Keys-->
-    <string name="twitter_api_key">KbPxphKrCHbm5BEmLPsNWEN7J</string>
-    <string name="twitter_secret_key">YHMidNptOeEiWzMEwGtnHNW3yytoBMsukfmQIO50F0eUxVmLdl</string>
-    <string name="twitter_barrier_token">AAAAAAAAAAAAAAAAAAAAAGxwHAEAAAAA8SKlanx0FdDUcqqeIIkgWE6w9BQ%3DMQrcvC0076wcm9B3Kvz7zHKSnB1oHSGMUig7ADCrJ1AmOeWhGN</string>
+    <string name="twitter_api_key">twitter_api_key</string>
+    <string name="twitter_secret_key">twitter_secret_key</string>
+    <string name="twitter_barrier_token">twitter_barrier_token%3DMQrcvC0076wcm9B3Kvz7zHKSnB1oHSGMUig7ADCrJ1AmOeWhGN</string>
     <string name="twitter_callback_url">twittersdk://</string>
 
 <!--    Line Keys-->
-    <string name="line_channel_id">1654874578</string>
+    <string name="line_channel_id">Line Keys</string>
 
 <!--    Facebook Keys-->
-    <string name="facebook_app_id">363320774683345</string>
-    <string name="fb_login_protocol_scheme">fb363320774683345</string>
+    <string name="facebook_app_id">facebook_app_id</string>
+    <string name="fb_login_protocol_scheme">fb_login_protocol_scheme</string>
 </resources>
